@@ -1,0 +1,36 @@
+.btn-uni {
+    background-color: rgb(197, 174, 152);
+    color:ghostwhite;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-weight: bold;
+    display:inline-block;
+    font-size: 14px;
+}
+.btn-uni:hover{
+    background-color:rgb(48, 44, 44)
+}
+.btn-lewagon {
+    background-color: rgb(197, 174, 152);
+    color:ghostwhite;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-weight: bold;
+    display:inline-block;
+    font-size: 14px;
+}
+.btn-lewagon:hover{
+    background-color:rgb(48, 44, 44)
+}
+.btn-contact {
+    background-color: rgb(197, 174, 152);
+    color:ghostwhite;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-weight: bold;
+    display:inline-block;
+    font-size: 14px;
+}
+.btn-contact:hover{
+    background-color:rgb(48, 44, 44)
+}
